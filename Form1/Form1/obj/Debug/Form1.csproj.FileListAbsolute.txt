@@ -14,3 +14,8 @@ C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form4.resources
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form5.resources
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form6.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form7.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form8.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Operatorler.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form9.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.KararYapıları.resources
