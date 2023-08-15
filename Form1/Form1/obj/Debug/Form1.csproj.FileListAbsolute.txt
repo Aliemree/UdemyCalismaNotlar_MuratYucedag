@@ -19,3 +19,4 @@ C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Operatorler.resources
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form9.resources
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.KararYapıları.resources
+C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\Form1\obj\Debug\Form1.Form10.resources
