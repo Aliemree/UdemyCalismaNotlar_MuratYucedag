@@ -126,9 +126,23 @@ namespace Form1
             }
         }
 
+        private void button7_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value = 80;
+        }
 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value += 10;
 
         }
+
+        private void button6_Click(object sender, EventArgs e)
+        {
+            progressBar1.Value -= 10;
+
+        }
+    }
 
     }
     
