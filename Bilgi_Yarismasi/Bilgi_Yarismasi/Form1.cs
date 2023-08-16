@@ -91,6 +91,24 @@ namespace Form1
                 pictureBox2.Visible = true;
             }
         }
+        int saniye = 0, dakika = 0;
+
+
+        private void timer1_Tick(object sender, EventArgs e)
+        {
+            saniye++;
+            label8.Text = saniye.ToString();
+            if (saniye == 60)
+            {
+                dakika++;
+                label7.Text = dakika.ToString();
+                saniye = 0;
+
+
+
+            }
+        }
+         
 
         private void BtnA_Click(object sender, EventArgs e)
         {
