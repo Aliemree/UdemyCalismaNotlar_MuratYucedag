@@ -78,7 +78,33 @@ namespace Form1
 
 
             }
+        // burda yaptıgım işlem aslında bir metod oluşturup onu fonksiyonda çagırıp işlem azaltmak
+        int Carpma (int x, int y)
+        {
+            int z = x * y;
+            return z;
         }
+        private void button4_Click(object sender, EventArgs e)
+        {
+            label6.Text=Carpma(9,5).ToString();
+            label7.Text=Carpma(10,6).ToString();
+            label8.Text=Carpma(11,7).ToString();
+        }
+
+        int Toplama (int x, int y)
+        {
+            int z = x +y;
+            return z;
+        }
+
+        private void button5_Click(object sender, EventArgs e)
+        {
+                int s1= Convert.ToInt32(textBox2.Text);
+            int s2= Convert.ToInt32(textBox3.Text);
+            label9.Text=Toplama(s1,s2).ToString();
+            label10.Text=Carpma(s1,s2).ToString();
+        }
+    }
 
     }
 
