@@ -207,5 +207,11 @@
   <ItemGroup>
     <None Include="App.config" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\ConsoleCalismaları\ConsoleCalismaları.csproj">
+      <Project>{ba5026b8-37ff-450b-83db-8e673bc74a74}</Project>
+      <Name>ConsoleCalismaları</Name>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

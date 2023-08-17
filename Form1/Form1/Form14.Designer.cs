@@ -1,6 +1,6 @@
 ﻿namespace Form1
 {
-    partial class Form14
+    partial class ConsoleCalısmaları
     {
         /// <summary>
         /// Required designer variable.

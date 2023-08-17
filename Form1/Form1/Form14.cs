@@ -10,9 +10,9 @@ using System.Windows.Forms;
 
 namespace Form1
 {
-    public partial class Form14 : Form
+    public partial class ConsoleCalısmaları : Form
     {
-        public Form14()
+        public ConsoleCalısmaları()
         {
             InitializeComponent();
         }

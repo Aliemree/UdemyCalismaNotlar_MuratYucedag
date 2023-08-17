@@ -16,7 +16,7 @@ namespace Form1
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new Form14());
+            Application.Run(new ConsoleCalısmaları());
         }
     }
 }
