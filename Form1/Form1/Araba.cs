@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Form1
 {
-    internal class Araba
+    internal class Araba: ArabaDetay
     {
         public string renk;
         public int hız;
