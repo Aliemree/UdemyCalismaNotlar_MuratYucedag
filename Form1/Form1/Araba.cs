@@ -25,7 +25,7 @@ namespace Form1
         public string MARKA
         {
             get { return marka; }
-            set { marka = value; }
+            set { marka = value.ToUpper(); }
         }
 
     }
