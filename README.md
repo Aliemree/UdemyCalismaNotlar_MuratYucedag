@@ -29,11 +29,18 @@ int d = b*c
 
 
 sınıflar dersinde public ve private arasındaki farkı ögrendik. public nesnel olup çagrılabilir fakat private özel oldugu için tekraradan yeni bir süslü parantez için de fonksiyon vermemiz gerek mesela private int yıl dedik bunu cagıramayız fakat alt ta 
+
+
+
            public int YIL
         {
             get { return yıl; }
             set { yıl = Math.Abs(value); }
-        }// burdaki math.abs value kodu matematik degerenin mutlak halını göndermesi için yazılmıştır.
+        }
+        // burdaki math.abs value kodu matematik degerenin mutlak halını göndermesi için yazılmıştır.
         işlemini yaptıktan sonra çagırabiliriz.
 
 
+oluşturalan sınıfın yanına gelip : yapıp diger sınıfla birleştirebilirsin.
+mesela public string ARABA : ARABADETAY
+bu iki sınıf birlikte kalıtım ile çalışır.
