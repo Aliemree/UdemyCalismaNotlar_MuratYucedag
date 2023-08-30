@@ -174,12 +174,93 @@ namespace Form1
                 BtnC.Text = "Atilla Ilhan";
                 BtnD.Text = "Resat Nuri Guntekin";
                 label4.Text = "Sait Faik";
-                BtnSonraki.Text = "Sonuclar=";
+                
+            }
+            if (soruno == 4)
+            {
+                richTextBox1.Text = "Fenerbahçe SK armasında bulunan yaprak hangi bitkiye aittir?";
+
+                BtnA.Text = "Yonca";
+                BtnB.Text = "Meşe Yapragı";
+                BtnC.Text = "Kayın Yapragı";
+                BtnD.Text = "Akdeniz Defnesi";
+                label4.Text = "Meşe Yapragı";
 
 
 
             }
-            if (soruno == 4)
+            if (soruno==5)
+            {
+                richTextBox1.Text = "Amerika Birleşik Devletleri tarihi boyunca en büyük zaiyatı hangi savaşta vermiştir?";
+
+                BtnA.Text = "1. Dünya Savaşı";
+                BtnB.Text = "2. Dünya Savaşı";
+                BtnC.Text = "Vietnam Savaşı";
+                BtnD.Text = "Irak Savaşı";
+                label4.Text = "Vietnam Savaşı";
+                
+
+            }
+            if (soruno ==6) 
+            
+            
+            {
+
+                richTextBox1.Text = "Hangisi Türkiye Cumhuriyeti'nin komşu devletlerinden birisi değildir?";
+                BtnA.Text = "Bulgaristan";
+                BtnB.Text = "Yunanistan";
+                BtnC.Text = "Gürcistan";
+                BtnD.Text = "Türkmenistan";
+                label4.Text = "Türkmenistan";
+                
+            }
+
+            if (soruno == 7)
+            {
+                richTextBox1.Text = "Aşağıda Verilen İlk Çağ Uygarlıklarından Hangisi Yazıyı İcat Etmiştir?";
+
+                BtnA.Text = "Hititler ";
+                BtnB.Text = " Elamlar";
+                BtnC.Text = "Sümerler";
+                BtnD.Text = "Urartular";
+                label4.Text = "Sümerler";
+            }
+            if (soruno == 8)
+            {
+                richTextBox1.Text = "2003 Yılında Euro Vizyon Şarkı Yarışmasında Ülkemizi Temsil Eden ve Yarışmada Birinci Gelen Sanatçımız Kimdir?";
+
+                BtnA.Text = "Grup Athena";
+                BtnB.Text = "Sertap Erener";
+                BtnC.Text = "Şebnem Paker";
+                BtnD.Text = " Ajda Pekkan";
+                label4.Text = "Sertap Erener";
+            }
+            if (soruno == 9)
+            {
+                richTextBox1.Text = "Mustafa Kemal Atatürk’ün Nüfusa Kayıtlı Olduğu İl Hangisidir?";
+
+                BtnA.Text = "Bursa ";
+                BtnB.Text = "Ankara ";
+                BtnC.Text = "İstanbul";
+                BtnD.Text = "Gaziantep";
+                label4.Text = "Gaziantep";
+            }
+            if (soruno == 10)
+            {
+                richTextBox1.Text = "\"Labirentin Gölgesinde\" ve \"Sembollerin Gölgesinde\" adlı fantastik romanların yazarı kimdir?";
+
+                BtnA.Text = "Haldun Taner  ";
+                BtnB.Text = "Mehmet Rauf  ";
+                BtnC.Text = "Yaşar Kemal";
+                BtnD.Text = "Yahya Karakurt";
+                label4.Text = "Yahya Karakurt";
+                BtnSonraki.Text = "Sonuclar=";
+
+
+            }
+
+
+            if (soruno==11)
             {
                 richTextBox1.Text = "SOONNNN :)";
                 BtnA.Enabled = false;
@@ -188,10 +269,8 @@ namespace Form1
                 BtnD.Enabled = false;
                 BtnSonraki.Enabled = false;
                 MessageBox.Show("Dogru= " + dogru + "\n" + "Yanlis=" + yanlis);
-                
+
                 Application.Exit();
-
-
 
             }
 
