@@ -69,6 +69,7 @@
             // BtnA
             // 
             this.BtnA.Enabled = false;
+            this.BtnA.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.BtnA.Location = new System.Drawing.Point(12, 202);
             this.BtnA.Name = "BtnA";
             this.BtnA.Size = new System.Drawing.Size(242, 60);
@@ -252,27 +253,30 @@
             // label7
             // 
             this.label7.AutoSize = true;
-            this.label7.Location = new System.Drawing.Point(677, 9);
+            this.label7.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label7.Location = new System.Drawing.Point(684, 9);
             this.label7.Name = "label7";
-            this.label7.Size = new System.Drawing.Size(17, 16);
+            this.label7.Size = new System.Drawing.Size(25, 22);
             this.label7.TabIndex = 17;
             this.label7.Text = "0:";
             // 
             // label8
             // 
             this.label8.AutoSize = true;
-            this.label8.Location = new System.Drawing.Point(696, 9);
+            this.label8.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label8.Location = new System.Drawing.Point(703, 9);
             this.label8.Name = "label8";
-            this.label8.Size = new System.Drawing.Size(14, 16);
+            this.label8.Size = new System.Drawing.Size(20, 22);
             this.label8.TabIndex = 18;
             this.label8.Text = "0";
             // 
             // label9
             // 
             this.label9.AutoSize = true;
-            this.label9.Location = new System.Drawing.Point(627, 9);
+            this.label9.Font = new System.Drawing.Font("Microsoft Sans Serif", 10.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label9.Location = new System.Drawing.Point(634, 9);
             this.label9.Name = "label9";
-            this.label9.Size = new System.Drawing.Size(38, 16);
+            this.label9.Size = new System.Drawing.Size(53, 22);
             this.label9.TabIndex = 19;
             this.label9.Text = "Sure:";
             // 
