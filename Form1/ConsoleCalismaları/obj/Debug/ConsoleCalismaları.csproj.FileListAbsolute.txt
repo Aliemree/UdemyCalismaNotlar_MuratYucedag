@@ -6,3 +6,10 @@ C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\ConsoleCalismaları\
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.csproj.CoreCompileInputs.cache
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.exe
 C:\Users\Ali\Desktop\Udemy Eğitimleri Murat Yücedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.pdb
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\bin\Debug\ConsoleCalismaları.exe.config
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\bin\Debug\ConsoleCalismaları.exe
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\bin\Debug\ConsoleCalismaları.pdb
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.csproj.AssemblyReference.cache
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.csproj.CoreCompileInputs.cache
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.exe
+C:\Users\aliem\Desktop\UdemyCalismaNotlar_MuratYucedag\Form1\ConsoleCalismaları\obj\Debug\ConsoleCalismaları.pdb

@@ -17,12 +17,15 @@ namespace ConsoleCalismaları
             ads = Console.ReadLine();
 
             ks.kisilistesi(ads);
+            
             Console.WriteLine("Meslek:");
             meslek = Console.ReadLine();
             ks.kisilistesi(meslek);
             Console.WriteLine("Yas:");
+            
             yas = Console.Read();
-            ks.kisilistesi(yas);
+           
+            ks.kisilistesi(yas); 
 
 
         }
