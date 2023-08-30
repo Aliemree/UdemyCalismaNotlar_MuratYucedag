@@ -59,7 +59,7 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.Font = new System.Drawing.Font("Modern No. 20", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.richTextBox1.Font = new System.Drawing.Font("Microsoft Sans Serif", 13.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.richTextBox1.Location = new System.Drawing.Point(0, -1);
             this.richTextBox1.Name = "richTextBox1";
             this.richTextBox1.Size = new System.Drawing.Size(487, 195);
@@ -69,7 +69,7 @@
             // BtnA
             // 
             this.BtnA.Enabled = false;
-            this.BtnA.Location = new System.Drawing.Point(12, 192);
+            this.BtnA.Location = new System.Drawing.Point(12, 202);
             this.BtnA.Name = "BtnA";
             this.BtnA.Size = new System.Drawing.Size(242, 60);
             this.BtnA.TabIndex = 1;
@@ -80,7 +80,7 @@
             // BtnB
             // 
             this.BtnB.Enabled = false;
-            this.BtnB.Location = new System.Drawing.Point(250, 192);
+            this.BtnB.Location = new System.Drawing.Point(250, 204);
             this.BtnB.Name = "BtnB";
             this.BtnB.Size = new System.Drawing.Size(237, 60);
             this.BtnB.TabIndex = 2;
@@ -91,7 +91,7 @@
             // BtnC
             // 
             this.BtnC.Enabled = false;
-            this.BtnC.Location = new System.Drawing.Point(12, 248);
+            this.BtnC.Location = new System.Drawing.Point(12, 270);
             this.BtnC.Name = "BtnC";
             this.BtnC.Size = new System.Drawing.Size(242, 52);
             this.BtnC.TabIndex = 3;
@@ -102,7 +102,7 @@
             // BtnD
             // 
             this.BtnD.Enabled = false;
-            this.BtnD.Location = new System.Drawing.Point(250, 248);
+            this.BtnD.Location = new System.Drawing.Point(250, 270);
             this.BtnD.Name = "BtnD";
             this.BtnD.Size = new System.Drawing.Size(237, 52);
             this.BtnD.TabIndex = 4;
@@ -172,7 +172,7 @@
             // 
             // BtnSonraki
             // 
-            this.BtnSonraki.Location = new System.Drawing.Point(521, 135);
+            this.BtnSonraki.Location = new System.Drawing.Point(521, 148);
             this.BtnSonraki.Name = "BtnSonraki";
             this.BtnSonraki.Size = new System.Drawing.Size(189, 46);
             this.BtnSonraki.TabIndex = 11;
@@ -204,7 +204,7 @@
             // 
             this.pictureBox1.Enabled = false;
             this.pictureBox1.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox1.Image")));
-            this.pictureBox1.Location = new System.Drawing.Point(493, 192);
+            this.pictureBox1.Location = new System.Drawing.Point(493, 211);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(147, 108);
             this.pictureBox1.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -216,7 +216,7 @@
             // 
             this.pictureBox2.Enabled = false;
             this.pictureBox2.Image = ((System.Drawing.Image)(resources.GetObject("pictureBox2.Image")));
-            this.pictureBox2.Location = new System.Drawing.Point(646, 190);
+            this.pictureBox2.Location = new System.Drawing.Point(646, 211);
             this.pictureBox2.Name = "pictureBox2";
             this.pictureBox2.Size = new System.Drawing.Size(147, 108);
             this.pictureBox2.SizeMode = System.Windows.Forms.PictureBoxSizeMode.StretchImage;
@@ -230,16 +230,16 @@
             this.panel1.Controls.Add(this.label6);
             this.panel1.Location = new System.Drawing.Point(0, -1);
             this.panel1.Name = "panel1";
-            this.panel1.Size = new System.Drawing.Size(487, 195);
+            this.panel1.Size = new System.Drawing.Size(487, 199);
             this.panel1.TabIndex = 16;
             // 
             // label6
             // 
             this.label6.AutoSize = true;
-            this.label6.Font = new System.Drawing.Font("Mistral", 25.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label6.Font = new System.Drawing.Font("Microsoft Sans Serif", 25.8F, System.Drawing.FontStyle.Italic, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label6.Location = new System.Drawing.Point(103, 50);
             this.label6.Name = "label6";
-            this.label6.Size = new System.Drawing.Size(239, 52);
+            this.label6.Size = new System.Drawing.Size(307, 51);
             this.label6.TabIndex = 0;
             this.label6.Text = "Bilgi Yarismasi";
             // 
@@ -280,7 +280,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 313);
+            this.ClientSize = new System.Drawing.Size(804, 331);
             this.Controls.Add(this.label9);
             this.Controls.Add(this.label8);
             this.Controls.Add(this.label7);
