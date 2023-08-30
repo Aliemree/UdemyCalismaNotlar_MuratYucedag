@@ -69,8 +69,8 @@
             // BtnA
             // 
             this.BtnA.Enabled = false;
-            this.BtnA.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BtnA.Location = new System.Drawing.Point(12, 202);
+            this.BtnA.Font = new System.Drawing.Font("Microsoft Sans Serif", 7.8F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.BtnA.Location = new System.Drawing.Point(12, 204);
             this.BtnA.Name = "BtnA";
             this.BtnA.Size = new System.Drawing.Size(242, 60);
             this.BtnA.TabIndex = 1;
